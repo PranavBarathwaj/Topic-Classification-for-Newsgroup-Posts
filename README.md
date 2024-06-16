@@ -9,3 +9,5 @@ The primary objective is to build a text classification system that generalizes 
 unseen data and can handle the inherent challenges of diverse writing styles, language nuances, 
 and varying lengths of documents within the newsgroups. The project involves preprocessing the raw text data, exploring feature extraction techniques, and implementing machine 
 learning algorithms, potentially utilizing deep learning models for enhanced performance.
+
+Dataset: https://scikit-learn.org/stable/datasets/real_world.html#the-20-newsgroups-text-dataset
